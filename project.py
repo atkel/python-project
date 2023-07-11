@@ -11,7 +11,7 @@ st.set_page_config(page_title = "Heart Disease project",
                    page_icon = ":anatomical_heart:",
                    layout = "centered")
 
-mydata = pd.read_csv("/Users/duonganhthy/Documents/Python/HeartDisease_2.csv")
+mydata = pd.read_csv("HeartDisease_2.csv")
 
 # page1 = ":female-technologist::skin-tone-2: Group member"
 # page2 = ":open_book: Dataset"
