@@ -24,7 +24,7 @@ page_selection = st.sidebar.selectbox(label = "Select page:",
 # ----- GROUP MEMBER
 if page_selection == "👩🏻‍💻  Group member":
     st.title("Heart Disease Dataset Analysis")
-    st.subheader("Group 3 - Instructor: Dr. Do Duc Tan")
+    st.subheader("Group 11 - Instructor: Dr. Do Duc Tan")
     col1, col2 = st.columns(2)
     with col1:
         st.markdown("##")
